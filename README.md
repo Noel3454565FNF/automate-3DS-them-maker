@@ -5,6 +5,8 @@ this can help you to make 3ds theme without doing anything :>
 
 -donwload ffmpeg: https://ffmpeg.org/download.html
 
+-download ImageMagick: https://imagemagick.org/archive/binaries/ImageMagick-7.1.1-12-Q16-HDRI-x64-dll.exe
+
 -add the directory to your PATH (https://windowsloop.com/how-to-add-to-windows-path/)
 
 # how to use?
